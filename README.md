@@ -10,3 +10,5 @@
 9. *args
 10. **kwargs
 11. OOPs
+12. Numpy
+13. Pandas
